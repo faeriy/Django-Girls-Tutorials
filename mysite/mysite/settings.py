@@ -25,7 +25,9 @@ SECRET_KEY = 'wu344n0a)-tge%zjf(r_^u8(5(9i4*)$v&(v@=uip-5w+*ubz9'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'faeriy.pythonanywhere.com'
+]
 
 
 # Application definition
